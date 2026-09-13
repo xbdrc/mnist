@@ -2,6 +2,7 @@
 
 React web app with TensorFlow to deliver a demonstration of AI Image Processing capabilities based on the MNIST dataset.
 
+
 **Live @** https://xbdrc.github.io/mnist/
 
 ---
