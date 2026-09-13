@@ -13,7 +13,7 @@ function App() {
         <MNIST />
       </div>
       <footer>
-        <a target="_blank" href="https://xbdrc.github.io" title="Bruno Cruz"><img src="mnist/favicon.ico" width={32} /></a>
+        <a target="_blank" href="https://xbdrc.github.io" title="Bruno Cruz"><img src="favicon.ico" width={32} /></a>
       </footer>
     </div>
   )
