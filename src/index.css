@@ -42,16 +42,28 @@ body {
   display: flex;
   gap: 10px;
   margin-top: 18px;
+  padding: 10px;
 }
 
 .buttons button {
   border: none;
   border-radius: 8px;
-  font-size: 16px;
-  background-color: lightgray;
+  font-size: 14px;
+  background-color: #737373;
+  color: white;
+  padding: 6px;
+  transition: all .2s ease;
 }
 
-.buttons #pred {}
+.buttons button:active {
+  opacity: .8;
+}
+
+.buttons #pred {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .description {
   display: flex;
