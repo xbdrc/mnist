@@ -101,6 +101,11 @@ footer a {
   text-decoration: none;
 }
 
+.note {
+  color: "lightgray";
+  font-size: 10;
+}
+
 /* ANIMATIONS */
 @keyframes fadeIn {
   from {
